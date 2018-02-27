@@ -11,3 +11,6 @@ ngrok http 8000
 helpful ngrok examples
 
 https://medium.com/slack-developer-blog/enhancing-slacks-events-api-7535827829ab
+
+
+https://api.slack.com/tutorials/tunneling-with-ngrok
