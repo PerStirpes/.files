@@ -1,14 +1,12 @@
 PS1="\W 👻  Boo ❯ "
 #PS1="\W ❯ "
 
-
-
 export LDFLAGS=-L/usr/local/opt/openssl/lib
 
 # Ensure user-installed binaries take precedence
 #export PATH=/usr/local/bin:$PATH
  #Load .bashrc if it exists
-# test -f ~/.bashrc && source ~/.bashrc
+ test -f ~/.bashrc && source ~/.bashrc
 
 # # activate bash completion
 # if [ -f $(brew --prefix)/etc/bash_completion ]; then
