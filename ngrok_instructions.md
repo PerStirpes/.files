@@ -13,4 +13,7 @@ helpful ngrok examples
 https://medium.com/slack-developer-blog/enhancing-slacks-events-api-7535827829ab
 
 
-https://api.slack.com/tutorials/tunneling-with-ngrok
+https://api.slack.com/tutorials/tunneling-with-ngrok <= good one
+
+
+https://jlospinoso.github.io/c++/web/rest/mattermost/software/developing/ngrok/2016/10/14/matterbot-slack-ngrok.html
