@@ -14,5 +14,4 @@ Aliases simplify working with git commands
 
 (create-react-app-scr)[https://github.com/facebook/create-react-app/tree/next/packages/react-scripts]
 
-is this thing on
-please work
+
