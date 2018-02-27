@@ -2,7 +2,7 @@ Usage Outside of Create React App
 
 If you want to use this Babel preset in a project not built with Create React App, you can install it with following steps.
 
-install Babel.
+first, install Babel.
 
 Then install babel-preset-react-app.
 
