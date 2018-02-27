@@ -8,3 +8,6 @@ Now, you’ll be able to expose any local port you’d like to the internet (be 
 
 ngrok http 8000
 
+helpful ngrok examples
+
+https://medium.com/slack-developer-blog/enhancing-slacks-events-api-7535827829ab
